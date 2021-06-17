@@ -20,3 +20,9 @@ git clone https://github.com/edward556/OOP_Project.git
 ```
 cd .../OOP_Project/JDBC_GUI_Project/src/jdbc_gui_project
 ```
+3. Make Sure That MySQL Server(Localhost) Is Running !
+4. Compile And Run The Driver Class
+```
+javac Main.java
+java Main
+```

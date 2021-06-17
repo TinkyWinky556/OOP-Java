@@ -1,3 +1,7 @@
+/*
+ * Create Your Table By Following The Query Statements Below :
+ */
+ 
 SHOW DATABASES;
 
 -- Schema_Name = "COMPANY"

@@ -1,4 +1,5 @@
 # Employee Database Management Application
+<hr>
 
 ### Dependencies For This Project :
 - MySQL Connector/Java Ver. 8.0.25                              --> (Available In Repository)

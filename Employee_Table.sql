@@ -1,5 +1,5 @@
 /*
- * Create Your Table By Following The Query Statements Below :
+ * Using MySQL Shell / Workbench, Create The Table By Interpreting Each Query Statement Below :
  */
  
 SHOW DATABASES;

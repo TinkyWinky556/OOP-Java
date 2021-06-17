@@ -9,4 +9,5 @@ The purpose of the creation of this project is to provide a media for all its us
 <br>
 The application itself currently supports three main features where they allow insertions, updates and deletion of a specific employee record found in the table, all to be done from within the displayed GUI, with the condition that each user has already defined their own tables with fixed names of its schema(SQL Package) and the table itself, which are described in the database file in the contents of this repository.
 <hr>
+
 ### How To Run This Project :

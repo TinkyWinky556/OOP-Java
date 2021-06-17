@@ -12,3 +12,7 @@ The application itself currently supports three main features where they allow i
 <hr>
 
 ### How To Run This Project :
+1. Clone This Repository
+'''
+git clone 
+'''

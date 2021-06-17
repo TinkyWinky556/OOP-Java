@@ -5,6 +5,7 @@
 - MySQL Connector/Java Ver. 8.0.25                              --> (Available In Repository)
 - MySQL Shell Ver. 8.0 And Its Workbench                        --> (Download Them [Here](https://dev.mysql.com/downloads/installer/))
 - External Swing Toolkit Ver. 1.2.0 For JFrame Design(Optional) --> (Available In Repository)
+<hr>
 
 The purpose of the creation of this project is to provide a media for all its users to interact with / manipulate a pre-defined SQL Table which functions by listing all details of each virtual employee which has been recorded in the database server(MySQL) through a graphical user interface application developed purely in Java using its own built-in gui design tool, most commonly referred to as "Swing" and an external API known as MySQL Connector/Java to establish a form of connection to the SQL table(JDBC).
 <br>

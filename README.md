@@ -20,7 +20,7 @@ git clone https://github.com/edward556/OOP_Project.git
 ```
 cd .../OOP_Project/JDBC_GUI_Project/src/jdbc_gui_project
 ```
-3. Make Sure That MySQL Server Is Running In Localhost(127.0.0.1) Equipped With Schema And Table Names That Follows The Syntax In This Repository's SQL File !
+3. Make Sure That MySQL Server Is Running In Localhost(127.0.0.1) And Is Equipped With Schema And Table Names That Follows The Syntax In This Repository's SQL File !
 4. Compile And Run The Driver Class
 ```
 javac Main.java

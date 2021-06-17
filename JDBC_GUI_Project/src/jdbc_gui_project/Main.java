@@ -15,7 +15,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // The Main Method Runs The Main Application By Instantiating Its Class.
-        Main_App run = new Main_App();
+        Welcome Run = new Welcome();
     }
     
 }

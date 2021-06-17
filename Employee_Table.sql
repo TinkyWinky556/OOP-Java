@@ -1,10 +1,12 @@
 SHOW DATABASES;
 
+-- Schema_Name = "COMPANY"
 CREATE DATABASE COMPANY;
 
 USE COMPANY;
 
 -- SQL Table Syntax For This Project.
+-- Table_Name = "EMPLOYEE"
 CREATE TABLE EMPLOYEE(Employee_ID VARCHAR(255), Name VARCHAR(255), Gender VARCHAR(255), Address VARCHAR(255), Mobile VARCHAR(255), Date_Employed VARCHAR(255), Designation VARCHAR(255), Monthly_Payment_Rate VARCHAR(255));
 
 -- This Supresses DML Query Warnings.

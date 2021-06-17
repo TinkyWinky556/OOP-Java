@@ -16,3 +16,7 @@ The application itself currently supports three main features where they allow i
 ```
 git clone https://github.com/edward556/OOP_Project.git
 ```
+2. Navigate Into The Project's Package
+```
+cd .../OOP_Project/JDBC_GUI_Project/src/jdbc_gui_project
+```

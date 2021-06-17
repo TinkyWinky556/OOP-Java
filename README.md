@@ -16,12 +16,12 @@ The application itself currently supports three main features where they allow i
 ```
 git clone https://github.com/edward556/OOP_Project.git
 ```
-2. Navigate Into The Project's Package
+2. Navigate Into The Project's Java Package
 ```
 cd .../OOP_Project/JDBC_GUI_Project/src/jdbc_gui_project
 ```
 3. Make Sure That MySQL Server Is Running In Localhost(127.0.0.1) And Is Equipped With Schema And Table Names That Follows The Syntax In This Repository's SQL Database File !
-4. Compile And Run The Driver Class
+4. Compile And Run The Driver Class Which Opens The Application 
 ```
 javac Main.java
 java Main

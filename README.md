@@ -30,4 +30,4 @@ java Main
 <hr>
 
 ### Extras :
-> During The Set Up Of MySQL Server, If The Specified ***Username***, ***Password*** And The Server's ***Port Number*** Is Different     > Compared To The Ones Used In This Repository's `Main_App.java` Then Each User May Have To Manually Replace Them With Each Of Their Own > MySQL Server's Details In Three Of The Class's String Attributes In `Main_App.java` Which Have Been Marked With Comments So That They > Can Be Easily Located.
+> During The Set Up Of MySQL Server, If The Specified ***Username***, ***Password*** And The Server's ***Port Number*** Is Different     Compared To The Ones Used In This Repository's `Main_App.java` Then Each User May Have To Manually Replace Them With Each Of Their Own MySQL Server's Details In Three Of The Class's String Attributes In `Main_App.java` Which Have Been Marked With Comments So That They Can Be Easily Found.

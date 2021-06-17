@@ -14,5 +14,5 @@ The application itself currently supports three main features where they allow i
 ### How To Run This Project :
 1. Clone This Repository
 ```
-git clone
+git clone https://github.com/edward556/OOP_Project.git
 ```

@@ -32,5 +32,21 @@ java Main
 ### Extras :
 > During The Set Up Of MySQL Server, If The Specified ***Username***, ***Password*** And The Server's ***Port Number*** Is Different     Compared To The Ones Used In This Repository's `Main_App.java` Then Each User May Have To Manually Replace Them With Each Of Their Own MySQL Server's Details In Three Of The Class's String Attributes In `Main_App.java` Which Have Been Marked With Comments So That They Can Be Easily Found.
 
-> A Guide On Installing, Setting Up, Running And Creating The Schema And Table Within The MySQL Server :
-> 1. Click On The Provided Link To MySQL Installer
+> A Guide On Installing, Setting Up, Running And Creating Schema And Table Within The MySQL Interface :
+> 1. Click On The Provided Link To MySQL Installer.
+> 2. Download The Folder "mysql-installer-community-8.0.25.0.msi".
+> 3. Open It And Wait Until A Prompt Is Given.
+> 4. Select "Developer Default" Type Of Server.
+> 5. Skip All Supporting Files.
+> 6. Select "Standalone MySQL Server" To Ease Server Configuration Within Your Operating System(Windows).
+> 7. A Default Port Number Is Given, With The Value "3306". DO NOT MODIFY / CHANGE THIS.
+> 8. Select "Legacy Authentication".
+> 9. Set Both Username And Password Values For The Server As "root" and "12345". If These Values Are Modified, Make Sure To Apply The Same Changes In `Main_App.java`.
+> 10. Create A New User Using The Details Which Have Been Specified Previously.
+> 11. Click On "Execute".
+> 12. Test The Server's Response By Clicking On "Check Connection".
+> 13. If Everything Works Fine, Click On "Finish".
+> 14. Both MySQL Shell(Ver. 8.0) And Its Workbench Will Be Opened. Select The Workbench For Convenience.
+> 15. Select The Active Instance "Local Instance MySQL80".
+> 16. Enter The Password From Which Has Been Set Previously.
+> 17. Create A Schema And A Table By Following The DB Syntax In This Repository.

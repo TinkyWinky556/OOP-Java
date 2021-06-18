@@ -50,3 +50,8 @@ java Main
 > 15. Select The Active Instance "Local Instance MySQL80".
 > 16. Enter The Password From Which Has Been Set Previously.
 > 17. Create A Schema And A Table By Following The DB Syntax In This Repository.
+
+> If MySQL Server Does Not Give A Response When Workbench Is Activated :
+> 1. Go To Start --> Services.
+> 2. Search The Thread "MySQL80".
+> 3. Right Click On It, And Perform A Restart.

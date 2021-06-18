@@ -38,7 +38,7 @@ java Main
 > 3. Open It And Wait Until A Prompt Is Given.
 > 4. Select "Developer Default" Type Of Server.
 > 5. Skip All Supporting Files.
-> 6. Select "Standalone MySQL Server" To Ease Server Configuration Within Your Operating System(Windows).
+> 6. Select "Standalone MySQL Server" To Ease Server Configuration Within Operating System(Windows Only).
 > 7. A Default Port Number Is Given, With The Value "3306". DO NOT MODIFY / CHANGE THIS.
 > 8. Select "Legacy Authentication".
 > 9. Set Both Username And Password Values For The Server As "root" and "12345". If These Values Are Modified, Make Sure To Apply The Same Changes In `Main_App.java`.

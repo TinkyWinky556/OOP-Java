@@ -32,7 +32,7 @@ java Main
 ### Extras :
 > During The Set Up Of MySQL Server, If The Specified ***Username***, ***Password*** And The Server's ***Port Number*** Is Different     Compared To The Ones Used In This Repository's `Main_App.java` Then Each User May Have To Manually Replace Them With Each Of Their Own MySQL Server's Details In Three Of The Class's String Attributes In `Main_App.java` Which Have Been Marked With Comments So That They Can Be Easily Found.
 
-> A Guide On Installing, Setting Up, Running And Creating Schema And Table Within The MySQL Interface :
+> A Guide On Installing, Setting Up, Running, Creating Schema And Table Within The MySQL Interface :
 > 1. Click On The Provided Link To MySQL Installer In This Repository.
 > 2. Download The Folder "mysql-installer-community-8.0.25.0.msi".
 > 3. Open It And Wait Until A Prompt Is Given.

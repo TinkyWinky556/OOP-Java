@@ -442,7 +442,7 @@ public class Main_App extends JFrame implements ActionListener, ItemListener {
             /*
                 '''
                 Do NOT build SQL statements by concatenating strings. 
-                The Developers thought they had been over this a long time ago. 
+                API Developers thought they had been over this a long time ago. 
                 It is a very bad practice and a very good way to create errors 
                 and let huge security holes into applications. 
                 Creating SQL statements by concatenating strings is a recipe for disaster 

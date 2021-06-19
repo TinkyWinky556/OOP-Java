@@ -13,13 +13,13 @@ The application itself currently supports three main features where they allow i
 <hr>
 
 ### How To Run This Project :
-1. Clone This Repository
+1. Clone This Repository 
 ```
 git clone https://github.com/edward556/OOP_Project.git
 ```
 2. From The Local Environment Where The Repository Was Cloned, Navigate Into The Project's Java Package
 ```
-cd .../OOP_Project/JDBC_GUI_Project/src/jdbc_gui_project
+cd .../Employee-Database-Manager-Application/JDBC_GUI_Project/src/jdbc_gui_project
 ```
 3. Make Sure That MySQL Server Is Running In Localhost(127.0.0.1) And Is Equipped With Schema And Table Names, Along With The Number Of Available Columns And Each Column's Name That Follows The Syntax In This Repository's SQL Database File !
 4. Compile And Run The Driver Class Which Opens The Application 

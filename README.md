@@ -1,4 +1,4 @@
-# Employee Database Management Application
+# Employee Database Manager Application
 <hr>
 
 ### Dependencies For This Project :

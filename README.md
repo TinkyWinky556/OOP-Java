@@ -54,5 +54,5 @@ java Main
 
 > If The Server Does Not Give A Response When Workbench Is Activated :
 > 1. Go To Start --> Services.
-> 2. Search The Thread "MySQL80".
+> 2. Search The Server Thread "MySQL80".
 > 3. Right Click On It, And Perform A Restart.

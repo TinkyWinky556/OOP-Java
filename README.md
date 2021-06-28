@@ -19,7 +19,7 @@ git clone https://github.com/edward556/Employee-Database-Manager-Application.git
 ```
 2. From The Local Environment Where The Repository Was Cloned, Navigate Into The Project's Java Package
 ```
-cd <Your_Environment>/Employee-Database-Manager-Application/JDBC_GUI_Project/src/jdbc_gui_project
+cd <Your_Env>/Employee-Database-Manager-Application/JDBC_GUI_Project/src/jdbc_gui_project
 ```
 3. Make Sure That MySQL Server Is Running In Localhost(127.0.0.1) And Is Equipped With Schema And Table Names, Along With The Number Of Available Columns And Each Column's Name That Follows The Syntax In This Repository's SQL Database File !
 4. Make Sure That The Project Has Already Included the JAR File For MySQLConnector/Java !

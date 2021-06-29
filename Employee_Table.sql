@@ -21,6 +21,10 @@ USE COMPANY;
 -- Table_Name = "EMPLOYEE"
 CREATE TABLE EMPLOYEE(Employee_ID VARCHAR(255) NOT NULL, Name VARCHAR(255) NOT NULL, Gender VARCHAR(255) NOT NULL, Address VARCHAR(255) NOT NULL, Mobile VARCHAR(255) NOT NULL, Date_Employed VARCHAR(255) NOT NULL, Designation VARCHAR(255) NOT NULL, Monthly_Payment_Rate VARCHAR(255) NOT NULL);
 
+ALTER TABLE EMPLOYEE
+  ADD PRIMARY KEY (Employee_ID);
+COMMIT;
+
 -- Test The Response Of SQL Table With These Insert & Select Queries.
 INSERT INTO EMPLOYEE VALUES('53409','Dora The Explorer','Female','Peruvian Jungle','UNKNOWN','25/01/2021','The Explorer','US$ 11,933.00');
 SELECT * FROM EMPLOYEE;

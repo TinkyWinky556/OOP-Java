@@ -1,7 +1,11 @@
 /*
  * Using MySQL Shell / Workbench, Create The SQL Table By Interpreting Each Query Statement Below(One By One At A Time, Starting From The Top) :
  */
- 
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+SET time_zone = "+00:00";
+START TRANSACTION;
+
 SHOW DATABASES;
 
 -- Schema_Name = "COMPANY"
